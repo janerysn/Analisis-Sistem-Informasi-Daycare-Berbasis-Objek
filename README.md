@@ -2,5 +2,8 @@
 <h2>Name : Zahra Jane Arnecia
     NPM  : 4522210028</h2>
 <h3>Use Case</h3>
+<img src="asset/UseCase.png"> 
 <h3>Class Diagram</h3>
+<img src="asset/ClassDiagram.png"> 
 <h3>ERD</h3>
+<img src="asset/ERD.png"> 
